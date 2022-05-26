@@ -19,3 +19,4 @@ for c in range(count-1) :
 if sign%2 != 0 :
     k=reverse_n[k]
 print(k-1)
+#hjl9345
